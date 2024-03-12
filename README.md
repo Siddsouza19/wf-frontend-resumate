@@ -1,4 +1,4 @@
-# Resume Analyzer Frontend
+# Resume Best Match App Frontend
 This is the frontend interface of the Resume Analyzer.
 
 ## Getting Started
@@ -8,8 +8,8 @@ Node.js version 14 or higher
 ### Installing
 Clone this repository:
 ````bash
-git clone https://github.com/your-username/vite-react-app.git
-cd vite-react-app
+git clone https://github.com/your-username/vite-react-app.git](https://github.com/vijay-83/wf-frontend-resumate.git
+cd wf-frontend-resumate
 ````
 
 ### Install dependencies:
