@@ -103,7 +103,7 @@ function App() {
 
   const getData = async () => {
     console.log("Loading");
-    fetch("https://ashishanton.pythonanywhere.com/")
+    fetch("https://pythonanywhere.com/")
       .then((response) => response.json())
       .then((data) => {
         console.log(data);
@@ -180,7 +180,7 @@ function App() {
       console.log(query);
       axios({
         method: "post",
-        url: "https://ashishanton.pythonanywhere.com/post",
+        url: "https://pythonanywhere.com/post",
         data: query,
       }).then((e) => {
         let arr = [];
