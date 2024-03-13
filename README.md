@@ -1,4 +1,4 @@
-# Resume Analyzer Frontend
+# Resume Best Match App Frontend
 This is the frontend interface of the Resume Analyzer.
 
 ## Getting Started
@@ -8,8 +8,8 @@ Node.js version 14 or higher
 ### Installing
 Clone this repository:
 ````bash
-git clone https://github.com/your-username/vite-react-app.git
-cd vite-react-app
+https://github.com/vijay-83/wf-frontend-resumate.git
+cd wf-frontend-resumate
 ````
 
 ### Install dependencies:
@@ -61,5 +61,3 @@ There are many ways to deploy a Vite React app, but here's one way:
 2. Upload the contents of the dist directory to your web server
 3. Done!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](../main/LICENSE) file for details.
